@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Chattanooga, Tennessee with a population of over 181k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Chattanooga, Tennessee, US",
+  "export_job_id": "5e8cf2ee-930a-4ec4-9c6d-24c13f5c7436",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 485237,
+  "location_name": "Chattanooga",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-chattanooga-tennessee-us-sample-485237",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/485237/beamstation_485237_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_pct": 9.87,
+  "sample_records": 68,
+  "sample_sha256": "83bb2dc9330e91c6142b34834aa709daf07fd37d76e7184564f6a60c7db79344",
+  "sample_size_bytes": 260292,
+  "total_records": 689,
+  "updated_at": "2026-04-09T09:13:24.352158+00:00"
+}
