@@ -1,12 +1,12 @@
 {
-  "export_job_id": "739b3770-ea4c-4612-81f1-5bc6e4faba07",
+  "export_job_id": "894a77b1-d0ae-407c-ab97-e54086d0fc67",
   "id_short": 485237,
-  "published_at": "2026-04-19T19:21:04Z",
+  "published_at": "2026-04-23T19:27:13Z",
   "repo_name": "all-restaurants-in-chattanooga-tennessee-us-sample-485237",
   "sample_asset_name": "beamstation_485237_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/485237/beamstation_485237_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 69,
-  "sample_sha256": "dfef55958c9718e195ab53333a841de037dddbdb332194c221a0f461e199d4b5",
-  "sample_size_bytes": 246418,
-  "total_records": 692
+  "sample_records": 25,
+  "sample_sha256": "34dd1361338e9231a15a1a731fbea5937023637d246868f82655fddfe7ee4f54",
+  "sample_size_bytes": 91809,
+  "total_records": 253
 }
